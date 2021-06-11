@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ <3',
     reply: 'Vì cậu đã đẹp trai còn cuteeeeee <33333333',
     mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: ' Yêu cậu nhất thế giới <333',
+    messDesc: ' IB cho tớ điiiii nhaaaa <333',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //https://www.facebook.com/thach3619
 }
