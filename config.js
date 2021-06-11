@@ -10,9 +10,9 @@ const CONFIG = {
     btnNo: 'Ờ không ? :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu tớ <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'Vì cậu đã đẹp trai còn cuteeeeee <33333333',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: ' Yêu cậu nhất thế giới <333',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //https://www.facebook.com/thach3619
 }
