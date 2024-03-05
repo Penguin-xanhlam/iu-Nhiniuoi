@@ -4,8 +4,8 @@ const CONFIG = {
     mà nụ cười elm vẫn là đẹp nhất nên là làm ơn
     hãy để anh giữ mãi nụ cười của em trên môi`,
     btnIntro: 'hehe',
-    title: 'Anh đã yêu em ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Và Không biết rằng em liệu e có iêu a khôngg ',
+    title: 'Anh đã yêu em ngay từ cái nhìn đầu tiên đó 😙',
+    desc: 'Và Không biết rằng em liệu e có iêu a khôngg nhỉ?',
     btnYes: 'Cóoooo ạ <333',
     btnNo: 'Ờ không ? :)))))',
     question:'Vậyy thì cho a mạn phép hỏi lí do đượcc k ạaa',
