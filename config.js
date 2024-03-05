@@ -11,7 +11,7 @@ const CONFIG = {
     question:'Vậyy thì cho a mạn phép hỏi lí do đượcc k ạaa',
     btnReply: 'Gửi anhh <3',
     reply: 'Vì anh đẹp trai hơn Minyoongi hehehe =)))))) ',
-    mess: 'Xời a biết mà, Yêuuu em nhiềuu nhiềuuu ',
+    mess: 'Xời a biết mà, Yêuuu em nhiềuu nhiềuuu và Chúc em 8-3 vuiiii vẻ ạaaaaaaa mãii iuuuu',
     messDesc: 'Nên là hãy nhắn cho a là em yêuu a nhiều lắmm đeeee',
     btnAccept: 'Okiiiii lun <3', 
     messLink:  'https://www.facebook.com/thach3619/'
