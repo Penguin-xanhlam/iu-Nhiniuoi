@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Xin chào elm!',
     introDesc: `Trên thế giới có hơn 7 tỉ nụ cười
     mà nụ cười elm vẫn là đẹp nhất nên là làm ơn
-    hãy để tớ mãi giữ nụ cười của cậu trên môi`,
+    hãy để anh giữ mãi nụ cười của em trên môi`,
     btnIntro: 'hehe',
     title: 'Anh đã yêu em ngay từ cái nhìn đầu tiên 😙',
     desc: 'Và Không biết rằng em liệu e có iêu a khôngg ',
