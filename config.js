@@ -1,18 +1,18 @@
 const CONFIG = {
-    introTitle: 'Hello cậu!',
+    introTitle: 'Xin chào elm!',
     introDesc: `Trên thế giới có hơn 7 tỉ nụ cười
-    mà nụ cười cậu vẫn là đẹp nhất nên là làm ơn
+    mà nụ cười elm vẫn là đẹp nhất nên là làm ơn
     hãy để tớ mãi giữ nụ cười của cậu trên môi`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng cậu đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng cậu đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu cậu nhấttt <33',
-    btnNo: 'Ờ không ? :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu tớ <3',
-    btnReply: 'Gửi cho tớ <3',
-    reply: 'Vì cậu đã đẹp trai còn cuteeeeee <33333333',
-    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: ' IB cho tớ điiiii nhaaaaaa <333',
+    btnIntro: 'hehe',
+    title: 'Anh đã yêu em ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Và Không biết rằng em liệu e có iêu a khôngg ',
+    btnYes: 'Cóoooo ạ <333',
+    btnNo: 'Ờ không ? :)))))',
+    question:'Vậyy thì cho a mạn phép hỏi lí do đượcc k ạaa',
+    btnReply: 'Gửi anhh <3',
+    reply: 'Vì anh đẹp trai hơn Minyoongi hehehe =)))))) ',
+    mess: 'Xời a biết mà, Yêuuu em nhiềuu nhiềuuu ',
+    messDesc: 'Nên là hãy nhắn cho a là em yêuu a nhiều lắmm đeeee',
     btnAccept: 'Okiiiii lun <3', 
     messLink:  'https://www.facebook.com/thach3619/'
 }
